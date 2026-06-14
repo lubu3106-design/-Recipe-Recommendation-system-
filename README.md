@@ -1,5 +1,5 @@
 
-# 🍲 DishDiscovery: AI-Powered Recipe Recommendation System
+# LUBNA-DEV  Recipe Recommendation System
 
 DishDiscovery is an interactive web application designed to reduce food waste and solve the daily "what should I cook?" dilemma. Users can input the ingredients they already have in their fridge, apply dietary filters, and instantly receive personalized recipe recommendations with dynamic ingredient scaling.
 
